@@ -92,7 +92,7 @@ function clicked() {
     answer4feedback.innerHTML = `Correct!`;
     answer4feedback.style.backgroundColor = "lime";
     answer4feedback.style.color = "seagreen";
-    answer4feedback.style.fontWeight = "bold";
+    answer4feedback.style.fontWeight = "bol";
 
     answer4style.style.backgroundColor = "lime";
     answer4style.style.color = "seagreen";
